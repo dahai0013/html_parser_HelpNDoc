@@ -1,7 +1,7 @@
 ---
 # usage of variable: filename
 #
-filename:  "xxxxxx"
+filename:  {{ filename1 }}
 #
 #
 #usage of list of object in listitem format: with for loop: images.name  or images.location ????
@@ -9,29 +9,13 @@ filename:  "xxxxxx"
 images:
     # images is a list of objects with many attribute: name, location
     # could also : "" - { name: "" , location = "" }  ""
-    - name: ~
-      localtion: ~
-    - name: ~
-      localtion: ~
-    - name: ~
-      localtion: ~
-    - name: ~
-      localtion: ~
-    - name: ~
-      localtion: ~
-    - name: ~
-      localtion: ~
+    - name: {{ name1 }}
+      localtion: {{ location1 }}
 #
 #
 #usage of variable: file_location.dir_1
 #
 file_location:
-    dir_1: ~
-    dir_2: ~
-    dir_3: ~
-    dir_4: ~
-    dir_5: ~
-    dir_6: ~
-    dir_7: ~
-    dir_8: ~
+    dir_1: {{ dir1 }}
+    dir_2: {{ dir2 }}
 

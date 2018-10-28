@@ -1,0 +1,20 @@
+---
+# usage of variable: filename
+#
+filename:  myfilename1
+#
+#
+#usage of list of object in listitem format: with for loop: images.name  or images.location ????
+#could also use:  "" image:   ["name1","name2",...]  ""
+images:
+    # images is a list of objects with many attribute: name, location
+    # could also : "" - { name: "" , location = "" }  ""
+    - name: myname1
+      localtion: mylocation1
+#
+#
+#usage of variable: file_location.dir_1
+#
+file_location:
+    dir_1: mydir1
+    dir_2: mydir2
