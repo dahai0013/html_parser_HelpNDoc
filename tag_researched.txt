@@ -1,0 +1,10 @@
+#structure
+#---------
+<div id="topic_breadcrumb">
+<a href="IT.html">IT</a> ›› <a href="Virtualisation.html">Virtualisation</a> ›› <a href="Hypervisors.html">Hypervisors</a> ›› <a href="Type1NativeBMSBareMetalServervir.html">Type 1: Native,  BMS: Bare-Metal Server virtualization hypervisors</a> ›› <a href="XenServerfromCitrixBasedonXenPro.html">XenServer from Citrix (Based on Xen Project)</a> ›› <a href="InstallXen.html">Install Xen</a> ›› </div>
+</div>
+
+
+#Text:
+#-----
+

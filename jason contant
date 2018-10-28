@@ -1,0 +1,357 @@
+{
+    "results": [
+        {
+            "id": 32935,
+            "key": "SWPRJ",
+            "name": "Demo Project Home",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/SWPRJ/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=SWPRJ",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/SWPRJ/theme",
+                "history": "",
+                "homepage": "/rest/api/content/32989"
+            },
+            "_links": {
+                "webui": "/spaces/SWPRJ",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/SWPRJ"
+            }
+        },
+        {
+            "id": 38696,
+            "key": "~admin",
+            "name": "jean-luc KRIKER  [Administrator]",
+            "type": "personal",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/~admin/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=~admin",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/~admin/theme",
+                "history": "",
+                "homepage": "/rest/api/content/38752"
+            },
+            "_links": {
+                "webui": "/spaces/~admin",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/~admin"
+            }
+        },
+        {
+            "id": 40088,
+            "key": "JA",
+            "name": "Juniper Automation",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/JA/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=JA",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/JA/theme",
+                "history": "",
+                "homepage": "/rest/api/content/40165"
+            },
+            "_links": {
+                "webui": "/spaces/JA",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/JA"
+            }
+        },
+        {
+            "id": 29720578,
+            "key": "JIO",
+            "name": "Juniper Internal Only",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/JIO/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=JIO",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/JIO/theme",
+                "history": "",
+                "homepage": "/rest/api/content/29720646"
+            },
+            "_links": {
+                "webui": "/spaces/JIO",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/JIO"
+            }
+        },
+        {
+            "id": 458814,
+            "key": "JO",
+            "name": "Juniper OpenContrail",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/JO/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=JO",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/JO/theme",
+                "history": "",
+                "homepage": "/rest/api/content/458943"
+            },
+            "_links": {
+                "webui": "/spaces/JO",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/JO"
+            }
+        },
+        {
+            "id": 35291,
+            "key": "JUN",
+            "name": "Juniper Routing",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/JUN/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=JUN",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/JUN/theme",
+                "history": "",
+                "homepage": "/rest/api/content/35369"
+            },
+            "_links": {
+                "webui": "/spaces/JUN",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/JUN"
+            }
+        },
+        {
+            "id": 12714009,
+            "key": "JS",
+            "name": "Juniper Security",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/JS/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=JS",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/JS/theme",
+                "history": "",
+                "homepage": "/rest/api/content/12714077"
+            },
+            "_links": {
+                "webui": "/spaces/JS",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/JS"
+            }
+        },
+        {
+            "id": 14450690,
+            "key": "JS2",
+            "name": "Juniper Switching",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/JS2/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=JS2",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/JS2/theme",
+                "history": "",
+                "homepage": "/rest/api/content/14450757"
+            },
+            "_links": {
+                "webui": "/spaces/JS2",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/JS2"
+            }
+        },
+        {
+            "id": 39846,
+            "key": "LIN",
+            "name": "Linux",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/LIN/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=LIN",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/LIN/theme",
+                "history": "",
+                "homepage": "/rest/api/content/39923"
+            },
+            "_links": {
+                "webui": "/spaces/LIN",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/LIN"
+            }
+        },
+        {
+            "id": 35829,
+            "key": "NS7",
+            "name": "Nokia SR 7750",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/NS7/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=NS7",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/NS7/theme",
+                "history": "",
+                "homepage": "/rest/api/content/35905"
+            },
+            "_links": {
+                "webui": "/spaces/NS7",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/NS7"
+            }
+        },
+        {
+            "id": 40368,
+            "key": "NN",
+            "name": "Nuage Networks",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/NN/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=NN",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/NN/theme",
+                "history": "",
+                "homepage": "/rest/api/content/40445"
+            },
+            "_links": {
+                "webui": "/spaces/NN",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/NN"
+            }
+        },
+        {
+            "id": 91193628,
+            "key": "PRIVfdsahfnmoiefnmskuuvcxballlci",
+            "name": "private",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/PRIVfdsahfnmoiefnmskuuvcxballlci/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=PRIVfdsahfnmoiefnmskuuvcxballlci",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/PRIVfdsahfnmoiefnmskuuvcxballlci/theme",
+                "history": "",
+                "homepage": "/rest/api/content/91193695"
+            },
+            "_links": {
+                "webui": "/spaces/PRIVfdsahfnmoiefnmskuuvcxballlci",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/PRIVfdsahfnmoiefnmskuuvcxballlci"
+            }
+        },
+        {
+            "id": 39968,
+            "key": "RP",
+            "name": "Raspberry Pi",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/RP/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=RP",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/RP/theme",
+                "history": "",
+                "homepage": "/rest/api/content/40045"
+            },
+            "_links": {
+                "webui": "/spaces/RP",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/RP"
+            }
+        },
+        {
+            "id": 172458034,
+            "key": "TI",
+            "name": "test import",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/TI/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=TI",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/TI/theme",
+                "history": "",
+                "homepage": "/rest/api/content/172458101"
+            },
+            "_links": {
+                "webui": "/spaces/TI",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/TI"
+            }
+        },
+        {
+            "id": 33016,
+            "key": "RD",
+            "name": "The Handy Guide To Confluence",
+            "type": "global",
+            "status": "current",
+            "_expandable": {
+                "settings": "/rest/api/space/RD/settings",
+                "metadata": "",
+                "operations": "",
+                "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=RD",
+                "permissions": "",
+                "icon": "",
+                "description": "",
+                "theme": "/rest/api/space/RD/theme",
+                "history": "",
+                "homepage": "/rest/api/content/33066"
+            },
+            "_links": {
+                "webui": "/spaces/RD",
+                "self": "https://dahai0013.atlassian.net/wiki/rest/api/space/RD"
+            }
+        }
+    ],
+    "start": 0,
+    "limit": 25,
+    "size": 15,
+    "_links": {
+        "base": "https://dahai0013.atlassian.net/wiki",
+        "context": "/wiki",
+        "self": "https://dahai0013.atlassian.net/wiki/rest/api/space"
+    }
+}
