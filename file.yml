@@ -1,22 +1,37 @@
 ---
--
-  filename:
-    html_filename: ~
--
-  images:
-    image_1: ~
-    image_2: ~
-    image_3: ~
-    image_4: ~
-    image_5: ~
-    image_6: ~
--
-  list_dir:
-    2nd_dir: ~
-    3rd_dir: ~
-    4th_dir: ~
-    5th_dir: ~
-    6th_dir: ~
-    7th_dir: ~
-    8th_dir: ~
-    top_dir: ~
+# usage of variable: filename
+#
+filename:  "xxxxxx"
+#
+#
+#usage of list of object in listitem format: with for loop: images.name  or images.location ????
+#could also use:  "" image:   ["name1","name2",...]  ""
+images:
+    # images is a list of objects with many attribute: name, location
+    # could also : "" - { name: "" , location = "" }  ""
+    - name: ~
+      localtion: ~
+    - name: ~
+      localtion: ~
+    - name: ~
+      localtion: ~
+    - name: ~
+      localtion: ~
+    - name: ~
+      localtion: ~
+    - name: ~
+      localtion: ~
+#
+#
+#usage of variable: file_location.dir_1
+#
+file_location:
+    dir_1: ~
+    dir_2: ~
+    dir_3: ~
+    dir_4: ~
+    dir_5: ~
+    dir_6: ~
+    dir_7: ~
+    dir_8: ~
+

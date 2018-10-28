@@ -10,12 +10,12 @@ html_doc = response.read()
 soup = BeautifulSoup(html_doc, 'html.parser')
 #print( soup)
 
-# create and yaml file from filename , the file name is provided!
+""" create and yaml file from filename , the file name is provided! """
 print ('\n'+"will print the name of the yaml file")
 yfilename = filename.strip('.hmtl')+'.yaml'
 print ('\t'+yfilename)
 
-#print only the "<div>" tag match "topic_breadcrumb"
+"""" print only the "<div>" tag match 'topic_breadcrumb' """
 print('\n'+ "This is the list of directory where this page : ")
 for listtag in soup.find_all("div"):
     if listtag.get('id') == "topic_breadcrumb":
