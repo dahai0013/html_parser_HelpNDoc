@@ -3,9 +3,11 @@ import glob
 
 path = 'C:\\Users\jkriker\Google Drive\FTUwebsite\O0O000OOO00O\migrate framed to unframed'
 listfile = [x for x in os.listdir(path) if x.endswith(".html")]
-print (listfile)
+#print (listfile)
 
+# only for testing
 #listfile = ["Enablestats.html","IxiaTester.html"]
+listfile = ["Enablestats.html"]
 #print ( type(listfile))
 
 for x in listfile:
